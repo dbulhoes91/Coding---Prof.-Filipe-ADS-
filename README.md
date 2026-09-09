@@ -1,6 +1,8 @@
 # UninassauFHSA
 # 🏃‍➡️KORRE🏍️
-Um mapa colaborativo feito para entregadores, com o objetivo de tornar suas entregas mais seguras e rápidas!
+Um mapa colaborativo feito para entregadores 99 FOOD. 
+
+Objetivo: Caso o entregador esteja oscioso, saberá os pontos estratégicos para aguardar a próxima entrega.
 ## 🛠️ Tecnologias Utilizadas
 
 <img 
